@@ -119,9 +119,12 @@
 
 <script>
   const kittyImgs = [
-    "https://upload.wikimedia.org/wikipedia/en/d/d8/Hello_Kitty_character_portrait.png",
-    "https://i.imgur.com/Q7iKXGq.png",
-    "https://i.imgur.com/oIqpM4I.png"
+    "<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/f86588b2-9677-4107-b6cd-30303208da53" />
+",
+    "<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/2aa458be-1706-4b0e-a75f-3246fcdc6369" />
+",
+    "<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/fa05beda-f744-4201-9978-cf28238c7d65" />
+"
   ];
 
   function spawnKitty() {
